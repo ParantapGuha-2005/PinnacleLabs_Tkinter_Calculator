@@ -2,6 +2,10 @@
 
 A lightweight, modern desktop calculator built using Python's standard `tkinter` library. It handles basic arithmetic operations and features a beautiful dark-mode user interface with distinct color accents.
 
+## 🏢 About the Project
+
+This project was developed as part of a **Python Development Internship** at [Pinnacle Labs Pvt Ltd](https://pinnaclelabs.tech).
+
 ## ✨ Features
 
 * **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
